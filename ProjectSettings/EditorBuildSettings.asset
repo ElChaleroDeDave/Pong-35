@@ -20,4 +20,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/VictoryPlayer2.unity
     guid: dd82b6600522e6848bc1ab5b4ba4145a
+  - enabled: 1
+    path: Assets/Scenes/Prueba/Prb.unity
+    guid: f4a37bee274753e4b94eb1b48504d16b
+  - enabled: 1
+    path: Assets/Scenes/Prueba/Prb2.unity
+    guid: 6aff84630bd2bf549a274c8366510709
   m_configObjects: {}
