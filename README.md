@@ -1,2 +1,3 @@
-# Pong-35
-# Hecho por David 
+PONG 35
+# Hecho por dave
+PONG 35
